@@ -80,19 +80,6 @@ Since 2018, I've been working as a developer and systems analyst, with a focus o
    </p>
 <div>
     
-
-##
-    
-<div align="center">
-    
-<h2>Top repositories: </h2>
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=lol-guide&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/>
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=workout-wizard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/>
-
-</div> 
-    
 ##
     
 <div style="display: inline_block"><br>
