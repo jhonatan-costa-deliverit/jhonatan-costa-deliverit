@@ -62,21 +62,21 @@ Since 2018, I've been working as a developer and systems analyst, with a focus o
 </div>
     
 <div align="center">
-  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoncosta08&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-costa-deliverit&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
  
 <div align="center"> 
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Jhoncosta08&theme=darkhub" alt="Jhoncosta08" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=jhonatan-costa-deliverit&theme=darkhub" alt="jhonatan-costa-deliverit" />
 </div>
  
 ##
  
 <div>
    <p align="center">
-      <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=Jhoncosta08&show_icons=true&locale=en" alt="Jhoncosta08" />
-      <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhoncosta08&" alt="Jhoncosta08" />
+      <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=jhonatan-costa-deliverit&show_icons=true&locale=en" alt="jhonatan-costa-deliverit" />
+      <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatan-costa-deliverit&" alt="jhonatan-costa-deliverit" />
    </p>
 <div>
     
@@ -92,7 +92,7 @@ Since 2018, I've been working as a developer and systems analyst, with a focus o
  <img align="left" alt="Angular-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
  <img align="left" alt="React-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
- <a href="mailto:jhonatan.s.costa97@gmail.com" target="_blank">
+ <a href="mailto:jhonatan.costa@deliverit.com.br" target="_blank">
    <img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
   
